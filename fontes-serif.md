@@ -23,13 +23,21 @@ by Peter Biľak and Nikola Djurek, typeface designers for the Typotheque foundry
 used as the branding font for Mozilla Foundation  
 https://github.com/mozilla/zilla-slab 
 
-  
+ 
+**Fraunces**  
+by Undercase Type  
+a Variable Font with four axes: Weight (wght), Optical Size (opsz), Softness (SOFT), and Wonky (WONK)  
+https://fraunces.undercase.xyz/
+ 
 
 **Bitter**  
 par Sol Matas  
 http://www.solmatas.com/#/bitter/ 
 
   
+**Spectral**  
+par Production Type  
+https://design.google/library/spectral-new-screen-first-typeface/
   
 
 **Merriweather**  
