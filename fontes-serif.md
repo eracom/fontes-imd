@@ -30,6 +30,11 @@ a Variable Font with four axes: Weight (wght), Optical Size (opsz), Softness (SO
 https://fraunces.undercase.xyz/
  
 
+**ET Book**  
+"A webfont of the typeface used in Edward Tufte’s books."  
+a Bembo-like font for the computer designed by Dmitry Krasny, Bonnie Scranton, and Edward Tufte. It is free and open-source.
+
+
 **Bitter**  
 par Sol Matas  
 http://www.solmatas.com/#/bitter/ 
