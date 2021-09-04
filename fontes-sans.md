@@ -5,10 +5,6 @@ title: Fontes Libres - Sans Serif
 
 Ce document présente des propositions pour une collection de fontes open-source pouvant être utilisées dans le cursus Eracom IMD.
 
-Il s’agit de fontes utiles pour le web et les interfaces écran, choisies pour leur pertinence pour des réalisations professionnelles. 
-
-Toutes ces fontes étant open-source, elles peuvent être utilisés pour des projets commerciaux, partagées avec les élèves, publiées sur le web, etc. 
-
 ## Fontes Sans Serif 
 
 
@@ -21,6 +17,9 @@ par Christian Robertson pour Google
 **Noto Sans**  
 fontes système de Google 
 
+
+**Source Sans Pro**  
+Adobe's first open source typeface family, designed by Paul D. Hunt. It is a sans serif typeface intended to work well in user interfaces.
   
 
 **Public Sans**  

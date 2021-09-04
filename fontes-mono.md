@@ -5,10 +5,6 @@ title: Fontes Libres - Mono
 
 Ce document présente des propositions pour une collection de fontes open-source pouvant être utilisées dans le cursus Eracom IMD.
 
-Il s’agit de fontes utiles pour le web et les interfaces écran, choisies pour leur pertinence pour des réalisations professionnelles. 
-
-Toutes ces fontes étant open-source, elles peuvent être utilisés pour des projets commerciaux, partagées avec les élèves, publiées sur le web, etc. 
-
 ## Fontes Mono
 
 
