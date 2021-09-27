@@ -64,7 +64,7 @@ https://github.com/dbenjaminmiller/rwgaramond
 **Junicode**  
 developed especially for medievalists  
 nouvelle version: JuniusX  
-https://psb1558.github.io/Junicode-New/ 
+[https://psb1558.github.io/Junicode-New/](https://psb1558.github.io/Junicode-New/) 
 
 
 
@@ -72,4 +72,9 @@ https://psb1558.github.io/Junicode-New/
 old-style serif font designed for academic users 
 
 
-**Playfair Display** 
+**Playfair Display**  
+par Claus Eggers Sørensen  
+[https://github.com/clauseggers/Playfair-Display](https://github.com/clauseggers/Playfair-Display)
+
+**Gotico-Antiqua, Proto-Roman, Hybrid**  
+Une série de 15 fontes basées sur des modèles historiques (1459-1482), produites par l'Atelier national de recherche typographique: "In parallel to historical research, Rafael Ribas & Alexis Faudot, researchers at ANRT, produced fifteen fonts and one set of initial letters. Based on a series of workshop sessions conducted between 2015 and 2018 in art & design schools across France and Germany, with over 150 students, the digital typefaces are the result of a thorough analysis and redesign of the originals." [https://github.com/anrt-type/GoticoAntiqua](https://github.com/anrt-type/GoticoAntiqua)
