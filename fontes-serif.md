@@ -15,15 +15,17 @@ par Frank Grießhammer pour Adobe Systems
 ![Specimen Source Serif Pro](img/serif/source-serif-pro.png)
  
 **Fraunces**  
-by Undercase Type  
+by Undercase Type, 2020  
 a Variable Font with four axes: Weight (wght), Optical Size (opsz), Softness (SOFT), and Wonky (WONK)  
-https://fraunces.undercase.xyz/
+[sur Google Fonts](https://fonts.google.com/specimen/Fraunces) / 
+[sur Github](https://github.com/undercasetype/Fraunces) / 
+[page de présentation](https://fraunces.undercase.xyz/)
 
 ![Specimen Fraunces](img/serif/fraunces.png)
 
 **ET Book**  
 "A webfont of the typeface used in Edward Tufte’s books."  
-a Bembo-like font for the computer, designed by Dmitry Krasny, Bonnie Scranton, and Edward Tufte (2015). 
+a Bembo-like font for the computer, designed by Dmitry Krasny, Bonnie Scranton, and Edward Tufte (2015).  
 [sur Github](https://github.com/edwardtufte/et-book)
 
 ![Specimen ET Book](img/serif/et-book-roman.png)
@@ -31,7 +33,7 @@ a Bembo-like font for the computer, designed by Dmitry Krasny, Bonnie Scranton, 
 **Spectral**  
 par Production Type, 2017  
 "a new serif face for screen use"  
-[sur Google Fonts](https://fonts.google.com/specimen/Spectral)
+[sur Google Fonts](https://fonts.google.com/specimen/Spectral) / 
 [page de présentation](https://www.productiontype.com/family/spectral) /
 [article sur la création de Spectral](https://design.google/library/spectral-new-screen-first-typeface/)
   
@@ -47,6 +49,7 @@ par Production Type, 2020
 **Merriweather**  
 par Eben Sorkin, 2016
 (aussi: Merriweather Sans)  
+[sur Google Fonts](https://fonts.google.com/specimen/Merriweather) /
 [sur Github](https://github.com/SorkinType/Merriweather)
 
 ![Specimen Merriweather](img/serif/merriweather.png)
@@ -54,7 +57,8 @@ par Eben Sorkin, 2016
 **Cormorant**  
 by Christian Thalmann, Catharsis Fonts, 2015  
 une garalde – "an extravagant display serif typeface inspired by the Garamond heritage"  
-https://github.com/CatharsisFonts/Cormorant/ 
+[sur Google Fonts](https://fonts.google.com/specimen/Cormorant) / 
+[sur Github](https://github.com/CatharsisFonts/Cormorant/) 
 
 ![Specimen Cormorant](img/serif/cormorant.png)
   
@@ -101,8 +105,8 @@ par Claus Eggers Sørensen, 2017
 
 ### Fontes Slab Serif (égyptiennes, mécanes)
 
-**Zilla Slab** 
-by Peter Biľak and Nikola Djurek, typeface designers for the Typotheque foundry, 2017  
+**Zilla Slab**  
+by Typotheque foundry, 2017  
 used as the branding font for Mozilla Foundation  
 [sur Github](https://github.com/mozilla/zilla-slab) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Zilla+Slab) 
@@ -110,8 +114,8 @@ used as the branding font for Mozilla Foundation
 ![Specimen Zilla Slab](img/serif/zilla-slab.png)
 
 **Bitter**  
-par Sol Matas  
-[site officiel](http://www.solmatas.com/#/bitter/) / 
+par Sol Matas, 2010  
+[site officiel](http://www.solmatas.com/bitter) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Bitter)
 
 ![Specimen Bitter](img/serif/bitter.png)

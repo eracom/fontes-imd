@@ -48,6 +48,8 @@ Adobe's first open source typeface family, designed by Paul D. Hunt. It is a san
 
 ![Specimen Source Sans Pro](img/sans/source-sans-pro.png)
 
+***
+
 **Public Sans**  
 A strong, neutral typeface for interfaces, text, and headings.  
 Developed by the United States Web Design System.  
@@ -55,11 +57,15 @@ Developed by the United States Web Design System.
 
 ![Specimen Public Sans](img/sans/public-sans.png)
 
+***
+
 **Cooper Hewitt** 
 par Eddie Opara (Pentagram) et Chester Jenkins (Village)   
 [Site officiel](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) 
 
 ![Specimen Cooper Hewitt](img/sans/cooper-hewitt.png)
+
+***
 
 **Clear Sans**  
 par Intel  
@@ -67,6 +73,8 @@ created and designed by Daniel Ratighan at Monotype under the direction of the U
 [sur Github](https://github.com/intel/clear-sans)
 
 ![Specimen Clear Sans](img/sans/clear-sans.png)
+
+***
 
 **Inter**  
 par Rasmus Andersson   
@@ -76,12 +84,16 @@ par Rasmus Andersson
 
 ![Specimen Inter](img/sans/inter.png)
 
+***
+
 **Poppins**  
 et **DM Sans** 
 
 ![Specimen Poppins](img/sans/poppins.png)
 
 ![Specimen DM Sans](img/sans/dm-sans.png)
+
+***
 
 **Sora**  
 Fonte de l'entreprise japonaise Soramitsu  
@@ -90,6 +102,8 @@ Fonte de l'entreprise japonaise Soramitsu
 
 ![Specimen Sora](img/sans/sora.png)
 
+***
+
 **Manrope**  
 par Mikhail Sharanda (Design Director at Huawei)  
 "Modern Geometric Sans-Serif"  
@@ -97,6 +111,8 @@ par Mikhail Sharanda (Design Director at Huawei)
 [sur Google Fonts](https://fonts.google.com/specimen/Manrope)
 
 ![Specimen Manrope](img/sans/manrope.png)
+
+***
 
 **Fira Sans**   
 a humanist sans-serif typeface designed by Erik Spiekermann 
@@ -109,12 +125,16 @@ https://bboxtype.com/typefaces/FiraGO/
 
 ![Specimen Fira Sans](img/sans/fira-sans.png)
 
+***
+
 **Breeze Sans**   
 a humanist sans-serif typeface designed by Dalton Maag for Samsung, 2013.  
 interface font of the Tizen operating system and the Samsung Galaxy Watch.  
 https://developer.tizen.org/design/platform/styles/typography 
 
 ![Specimen Breeze Sans](img/sans/breeze-sans.png)
+
+***
 
 **Epilogue**  
 par Tyler Finck, Etcetera Type Co, 2020  
@@ -124,6 +144,8 @@ par Tyler Finck, Etcetera Type Co, 2020
 
 ![Specimen Epilogue](img/sans/epilogue.png)
 
+***
+
 **HK Grotesk** 
 par Alfredo Marco Pradil, Hanken Design Co, 2015  
 "sans serif typeface inspired by the classic grotesques"  
@@ -131,6 +153,8 @@ par Alfredo Marco Pradil, Hanken Design Co, 2015
 [sur Behance](https://www.behance.net/gallery/28749913/HK-Grotesk-Open-Source-Typeface)
 
 ![Specimen HK Grotesk](img/sans/hk-grotesk.png)
+
+***
 
 **Barlow** 
 par Jeremy Tribby, 2017  
@@ -140,6 +164,8 @@ a slightly rounded, low-contrast, grotesk type family (variable font)
 [page de démonstration](https://tribby.com/fonts/barlow/) 
 
 ![Specimen Barlow](img/sans/barlow.png)
+
+***
 
 **Montserrat** 
 
