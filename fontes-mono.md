@@ -33,12 +33,20 @@ https://github.com/microsoft/cascadia-code/
 
 ![Specimen Cascadia](img/mono/cascadia-code.png)
 
-**Roboto Mono** 
+**Roboto Mono**  
+Dans la famille Roboto de Google
 
 ![Specimen Roboto Mono](img/mono/roboto-mono.png)
 
-**League Mono**  
 
+**JetBrains Mono**  
+pour la société éditrice de logiciels JetBrains  
+[sur Github](https://github.com/JetBrains/JetBrainsMono) / 
+[sur Google Fonts](https://fonts.google.com/specimen/JetBrains+Mono) 
+
+![Specimen JetBrains Mono](img/mono/jetbrains-mono.png)
+
+**League Mono**  
 
 ![Specimen League Mono](img/mono/league-mono.png)
 
