@@ -87,11 +87,17 @@ par Rasmus Andersson
 ***
 
 **Poppins**  
-et **DM Sans** 
+et **DM Sans**  
+[DM Sans sur Github](https://fonts.google.com/specimen/DM+Sans) / 
+[DM Sans sur Google Fonts](https://fonts.google.com/specimen/DM+Sans)
 
 ![Specimen Poppins](img/sans/poppins.png)
 
 ![Specimen DM Sans](img/sans/dm-sans.png)
+
+![Charactères Poppins](img/sans/poppins-charset.png)
+
+![Charactères DM Sans](img/sans/dm-sans-charset.png)
 
 ***
 
@@ -146,7 +152,7 @@ par Tyler Finck, Etcetera Type Co, 2020
 
 ***
 
-**HK Grotesk** 
+**HK Grotesk**  
 par Alfredo Marco Pradil, Hanken Design Co, 2015  
 "sans serif typeface inspired by the classic grotesques"  
 [site officiel](https://hanken.co/products/hk-grotesk)
@@ -156,7 +162,7 @@ par Alfredo Marco Pradil, Hanken Design Co, 2015
 
 ***
 
-**Barlow** 
+**Barlow**  
 par Jeremy Tribby, 2017  
 a slightly rounded, low-contrast, grotesk type family (variable font)  
 [sur Google Fonts](https://fonts.google.com/specimen/Barlow) / 
@@ -176,7 +182,7 @@ et **Chivo**
 
 ### Fontes géométriques
 
-**Jost**
+**Jost**  
 par Owen Earl, Indestructible Type, 2017-2020    
 "inspired by 1920s German sans-serifs"  
 [sur Google Fonts](https://fonts.google.com/specimen/Jost) / 
