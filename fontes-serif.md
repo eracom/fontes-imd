@@ -101,13 +101,15 @@ par Claus Eggers Sørensen
 **Zilla Slab** 
 by Peter Biľak and Nikola Djurek, typeface designers for the Typotheque foundry  
 used as the branding font for Mozilla Foundation  
-[sur Github](https://github.com/mozilla/zilla-slab) 
+[sur Github](https://github.com/mozilla/zilla-slab) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Zilla+Slab) 
 
 ![Specimen Zilla Slab](img/serif/zilla-slab.png)
 
 **Bitter**  
 par Sol Matas  
-http://www.solmatas.com/#/bitter/ 
+[site officiel](http://www.solmatas.com/#/bitter/) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Bitter)
 
 ![Specimen Bitter](img/serif/bitter.png)
 
@@ -115,7 +117,7 @@ http://www.solmatas.com/#/bitter/
 **Besley**  
 "antique slab serif inspired by Robert Besley's Clarendon"  
 par Owen Earl,  indestructible type.  
-[sur Github](https://github.com/indestructible-type/Besley)  
+[sur Github](https://github.com/indestructible-type/Besley) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Besley)
 
 ![Specimen Besley](img/serif/besley.png)
