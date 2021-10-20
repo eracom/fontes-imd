@@ -77,4 +77,4 @@ par Owen Earl, indestructible type
 [sur Github](https://github.com/indestructible-type/Drafting) /
 [site de démo](https://indestructibletype.com/Drafting/)
 
-![Specimen Drafting Mono](img/mono/drafting-mono.png)
+![Specimen Drafting Mono](img/mono/drafting-mono-regular.png)
