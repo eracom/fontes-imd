@@ -34,24 +34,40 @@ a Bembo-like font for the computer designed by Dmitry Krasny, Bonnie Scranton, a
   
 **Spectral**  
 par Production Type  
-https://design.google/library/spectral-new-screen-first-typeface/
+"a new serif face for screen use"  
+[sur Google Fonts](https://fonts.google.com/specimen/Spectral)
+[page de présentation](https://www.productiontype.com/family/spectral) /
+[article sur la création de Spectral](https://design.google/library/spectral-new-screen-first-typeface/)
   
+![Specimen Spectral](img/serif/spectral-300.png)
+
+**Newsreader**  
+aussi par Production Type  
+[sur Google Fonts](https://fonts.google.com/specimen/Newsreader) / 
+[page de présentation](https://www.productiontype.com/family/newsreader)
+
+![Specimen Newsreader](img/serif/newsreader.png)
 
 **Merriweather**  
 (aussi: Merriweather Sans)  
 https://github.com/SorkinType/Merriweather 
 
-  
+![Specimen Merriweather](img/serif/merriweather.png)
 
 **Cormorant**  
 by Christian Thalmann of Catharsis Fonts  
 une garalde – "an extravagant display serif typeface inspired by the Garamond heritage"  
 https://github.com/CatharsisFonts/Cormorant/ 
+
+![Specimen Cormorant](img/serif/cormorant.png)
   
 
 **EB Garamond**  
 Digitization of the Garamond shown on the Egenolff-Berner specimen  
-https://github.com/georgd/EB-Garamond 
+[sur Google Fonts](https://fonts.google.com/specimen/EB+Garamond) / 
+[sur Github](https://github.com/georgd/EB-Garamond) 
+
+![Specimen EB Garadmond](img/serif/eb-garamond.png)
 
 aussi:  
 **RW Garamond**  
@@ -69,6 +85,8 @@ nouvelle version: JuniusX
 old-style serif font designed for academic users  
 https://fonts.google.com/specimen/Cardo
 
+![Specimen Cardo](img/serif/cardo.png)
+
 **Bodoni Moda**  
 "a no-compromises Bodoni family, built for the digital age"  
 par Owen Earl,  indestructible type.  
@@ -80,6 +98,8 @@ par Owen Earl,  indestructible type.
 **Playfair Display**  
 par Claus Eggers Sørensen  
 [https://github.com/clauseggers/Playfair-Display](https://github.com/clauseggers/Playfair-Display)
+
+![Specimen Playfair Display](img/serif/playfair-display.png)
 
 ### Fontes Slab Serif (égyptiennes, mécanes)
 
@@ -103,4 +123,7 @@ par Owen Earl,  indestructible type.
 ### Fontes serif historiques
 
 **Gotico-Antiqua, Proto-Roman, Hybrid**  
-Une collection de 15 fontes basées sur des modèles historiques (1459-1482), produites par l'Atelier national de recherche typographique: "In parallel to historical research, Rafael Ribas & Alexis Faudot, researchers at ANRT, produced fifteen fonts and one set of initial letters. Based on a series of workshop sessions conducted between 2015 and 2018 in art & design schools across France and Germany, with over 150 students, the digital typefaces are the result of a thorough analysis and redesign of the originals." [https://github.com/anrt-type/GoticoAntiqua](https://github.com/anrt-type/GoticoAntiqua)
+Une collection de 15 fontes basées sur des modèles historiques (1459-1482), produites par l'Atelier national de recherche typographique: "In parallel to historical research, Rafael Ribas & Alexis Faudot, researchers at ANRT, produced fifteen fonts and one set of initial letters. Based on a series of workshop sessions conducted between 2015 and 2018 in art & design schools across France and Germany, with over 150 students, the digital typefaces are the result of a thorough analysis and redesign of the originals."  
+[sur Github](https://github.com/anrt-type/GoticoAntiqua) / [site officiel](https://gotico-antiqua.anrt-nancy.fr/#caracteres)
+
+![Une parmi les 15 fontes](img/serif/gotico-antiqua.png)
