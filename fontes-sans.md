@@ -99,6 +99,10 @@ et **DM Sans**
 
 ![Charactères DM Sans](img/sans/dm-sans-charset.png)
 
+Les versions DM Serif et DM Sans sont des variantes qui ont été développées pour [l'identité de l'entreprise DeepMind](https://multiadaptor.com/work/deepmind/).
+
+![DM Fonts](img/sans/dm-fonts.png)
+
 ***
 
 **Sora**  
