@@ -19,8 +19,11 @@ monospaced sans serif typeface created by Paul D. Hunt for Adobe Systems.
 Source: https://github.com/iaolo/iA-Fonts  
 Lire: https://ia.net/writer/blog/a-typographic-christmas 
 
+![Specimen iA Writer Duospace](img/mono/ia-writer-duospace.png)
 
 **Inconsolata** 
+
+![Specimen Inconsolata](img/mono/inconsolata.png)
 
 
 **Cascadia Code**  
@@ -28,27 +31,38 @@ Commissioned by Microsoft
 https://github.com/microsoft/cascadia-code/ 
 "Cascadia is a fun new coding font that comes bundled with Windows Terminal, and is now the default font in Visual Studio as well" 
 
+![Specimen Cascadia](img/mono/cascadia-code.png)
+
 **Roboto Mono** 
 
 ![Specimen Roboto Mono](img/mono/roboto-mono.png)
 
 **League Mono**  
-et une version modifiée, en Variable Font: Trispace
 
-[Trispace](https://www.etceteratype.co/trispace)  
-[Lien Google Fonts](https://fonts.google.com/specimen/Trispace)
+
+![Specimen League Mono](img/mono/league-mono.png)
+
+**Trispace**  
+Version de League Mono modifiée, en Variable Font: 
+
+[site de démonstration](https://www.etceteratype.co/trispace) / [sur Google Fonts](https://fonts.google.com/specimen/Trispace)
 
 ![Specimen Trispace](img/mono/trispace.png)
 
 **Linux Libertine Mono** 
 
+![Specimen Linux Libertine Mono](img/mono/linux-libertine-mono.png)
+
 **Luxi Mono** 
+
+![Specimen Luxi Mono](img/mono/luxi-mono.png)
+
 
 **Iosevka**  
 https://typeof.net/Iosevka/  
 https://github.com/be5invis/Iosevka 
 
-![Specimen Iosevka](img/mono/iosevka-sans-slab.png)
+![Specimen Iosevka](img/mono/iosevka-regular.png)
 
 **Space Mono**  
 Par Colophon Foundry  
