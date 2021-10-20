@@ -83,6 +83,12 @@ https://developer.tizen.org/design/platform/styles/typography
 "inspired by 1920s German sans-serifs"  
 [sur Google Fonts](https://fonts.google.com/specimen/Jost)
 
+**Epilogue**  
+par Tyler Finck — Etcetera Type Co  
+[sur Google Fonts](https://fonts.google.com/specimen/Epilogue) /
+[sur Github](https://github.com/Etcetera-Type-Co/Epilogue) / 
+[page de démonstration](https://www.etceteratype.co/epilogue)
+
 **HK Grotesk** 
 par Hanken Design Co.  
 sans serif typeface inspired by the classic grotesques 
