@@ -30,13 +30,13 @@ Une "Variable Font" dotée de 5 axes variables, qui combine des styles Sans et M
 [sur Github](https://github.com/arrowtype/recursive) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Recursive)
 
-![Recursive Mono](img/mono/recursive-mono-default.png)
+![Recursive Mono](img/recursive/recursive-mono-default.png)
 
-![Recursive Sans](img/mono/recursive-sans.png)
+![Recursive Sans](img/recursive/recursive-sans.png)
 
-![Recursive Cursive](img/mono/recursive-cursive.png)
+![Recursive Cursive](img/recursive/recursive-cursive.png)
 
-![Recursive Casual](img/mono/recursive-casual-thin.png)
+![Recursive Casual](img/recursive/recursive-casual-thin.png)
 
 ***
 
