@@ -29,7 +29,7 @@ Autres fontes système de Google (pratiquement identiques):
 
 **IBM Plex** 
 
-par Mike Abbink pour IBM  
+par Mike Abbink pour IBM, 2018  
 Famille de fontes qui comporte trois variantes:
 
 - IBM Plex Sans 
@@ -88,6 +88,8 @@ Fonte de l'entreprise japonaise Soramitsu
 [sur Github](https://github.com/sora-xor/sora-font) /
 [sur Google Fonts](https://fonts.google.com/specimen/Sora)
 
+![Specimen Sora](img/sans/sora.png)
+
 **Manrope**  
 par Mikhail Sharanda (Design Director at Huawei)  
 "Modern Geometric Sans-Serif"  
@@ -108,37 +110,33 @@ https://bboxtype.com/typefaces/FiraGO/
 ![Specimen Fira Sans](img/sans/fira-sans.png)
 
 **Breeze Sans**   
-a humanist sans-serif typeface designed by Dalton Maag for Samsung.  
+a humanist sans-serif typeface designed by Dalton Maag for Samsung, 2013.  
 interface font of the Tizen operating system and the Samsung Galaxy Watch.  
 https://developer.tizen.org/design/platform/styles/typography 
 
 ![Specimen Breeze Sans](img/sans/breeze-sans.png)
 
 **Epilogue**  
-par Tyler Finck — Etcetera Type Co  
+par Tyler Finck, Etcetera Type Co, 2020  
 [sur Google Fonts](https://fonts.google.com/specimen/Epilogue) /
 [sur Github](https://github.com/Etcetera-Type-Co/Epilogue) / 
 [page de démonstration](https://www.etceteratype.co/epilogue)
 
 ![Specimen Epilogue](img/sans/epilogue.png)
 
-**Jost**  
-"inspired by 1920s German sans-serifs"  
-[sur Google Fonts](https://fonts.google.com/specimen/Jost) / 
-[page de démonstration](https://indestructibletype.com/Jost.html)
-
-![Specimen Jost](img/sans/jost.png)
-
 **HK Grotesk** 
-par Hanken Design Co.  
-sans serif typeface inspired by the classic grotesques 
+par Alfredo Marco Pradil, Hanken Design Co, 2015  
+"sans serif typeface inspired by the classic grotesques"  
+[site officiel](https://hanken.co/products/hk-grotesk)
+[sur Behance](https://www.behance.net/gallery/28749913/HK-Grotesk-Open-Source-Typeface)
 
 ![Specimen HK Grotesk](img/sans/hk-grotesk.png)
 
 **Barlow** 
-par Jeremy Tribby  
+par Jeremy Tribby, 2017  
 a slightly rounded, low-contrast, grotesk type family (variable font)  
 [sur Google Fonts](https://fonts.google.com/specimen/Barlow) / 
+[sur Github](https://github.com/jpt/barlow) / 
 [page de démonstration](https://tribby.com/fonts/barlow/) 
 
 ![Specimen Barlow](img/sans/barlow.png)
@@ -150,3 +148,12 @@ a slightly rounded, low-contrast, grotesk type family (variable font)
 **Archivo**  
 et **Chivo**
 
+### Fontes géométriques
+
+**Jost**
+par Owen Earl, Indestructible Type, 2017-2020    
+"inspired by 1920s German sans-serifs"  
+[sur Google Fonts](https://fonts.google.com/specimen/Jost) / 
+[page de démonstration](https://indestructibletype.com/Jost.html)
+
+![Specimen Jost](img/sans/jost.png)

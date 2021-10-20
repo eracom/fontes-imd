@@ -21,15 +21,17 @@ Lire: https://ia.net/writer/blog/a-typographic-christmas
 
 ![Specimen iA Writer Duospace](img/mono/ia-writer-duospace.png)
 
-**Inconsolata** 
+**Inconsolata**  
+par Raph Levien, 2006  
+[sur Github](https://github.com/googlefonts/inconsolata) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Inconsolata)
 
 ![Specimen Inconsolata](img/mono/inconsolata.png)
 
-
 **Cascadia Code**  
-Commissioned by Microsoft 
-https://github.com/microsoft/cascadia-code/ 
-"Cascadia is a fun new coding font that comes bundled with Windows Terminal, and is now the default font in Visual Studio as well" 
+par Aaron Bell, pour Microsoft, 2019   
+"Cascadia is a fun new coding font that comes bundled with Windows Terminal, and is now the default font in Visual Studio as well"  
+[sur Github](https://github.com/microsoft/cascadia-code/)
 
 ![Specimen Cascadia](img/mono/cascadia-code.png)
 
@@ -38,21 +40,22 @@ Dans la famille Roboto de Google
 
 ![Specimen Roboto Mono](img/mono/roboto-mono.png)
 
-
 **JetBrains Mono**  
-pour la société éditrice de logiciels JetBrains  
+pour la société éditrice de logiciels JetBrains, 2020  
 [sur Github](https://github.com/JetBrains/JetBrainsMono) / 
-[sur Google Fonts](https://fonts.google.com/specimen/JetBrains+Mono) 
+[sur Google Fonts](https://fonts.google.com/specimen/JetBrains+Mono) / 
+[page de démonstration](https://www.jetbrains.com/lp/mono/)
 
 ![Specimen JetBrains Mono](img/mono/jetbrains-mono.png)
 
 **League Mono**  
+par Tyler Finck, 2017-2020  
+[sur Github](https://github.com/theleagueof/league-mono)
 
 ![Specimen League Mono](img/mono/league-mono.png)
 
 **Trispace**  
-Version de League Mono modifiée, en Variable Font: 
-
+Version de League Mono modifiée, en Variable Font  
 [site de démonstration](https://www.etceteratype.co/trispace) / [sur Google Fonts](https://fonts.google.com/specimen/Trispace)
 
 ![Specimen Trispace](img/mono/trispace.png)
@@ -67,13 +70,14 @@ Version de League Mono modifiée, en Variable Font:
 
 
 **Iosevka**  
-https://typeof.net/Iosevka/  
-https://github.com/be5invis/Iosevka 
+par Renzhi Li, 2015
+[site de démonstration](https://typeof.net/Iosevka/) / 
+[sur Github](https://github.com/be5invis/Iosevka) 
 
 ![Specimen Iosevka](img/mono/iosevka-regular.png)
 
 **Space Mono**  
-Par Colophon Foundry  
+Par Colophon Foundry, 2016  
 [sur Google Fonts](https://fonts.google.com/specimen/Space+Mono) / 
 [site de démo](https://www.colophon-foundry.org/custom/spacemono/) / 
 [article sur la recherche](https://medium.com/google-design/introducing-space-mono-a-new-monospaced-typeface-by-colophon-foundry-for-google-fonts-84367eac6dfb)
@@ -81,7 +85,7 @@ Par Colophon Foundry
 ![Specimen Space Mono](img/mono/space-mono.png)
 
 **Drafting Mono**  
-par Owen Earl, indestructible type  
+par Owen Earl, indestructible type, 2021  
 [sur Github](https://github.com/indestructible-type/Drafting) /
 [site de démo](https://indestructibletype.com/Drafting/)
 

@@ -23,12 +23,13 @@ https://fraunces.undercase.xyz/
 
 **ET Book**  
 "A webfont of the typeface used in Edward Tufte’s books."  
-a Bembo-like font for the computer designed by Dmitry Krasny, Bonnie Scranton, and Edward Tufte.
+a Bembo-like font for the computer, designed by Dmitry Krasny, Bonnie Scranton, and Edward Tufte (2015). 
+[sur Github](https://github.com/edwardtufte/et-book)
 
 ![Specimen ET Book](img/serif/et-book-roman.png)
   
 **Spectral**  
-par Production Type  
+par Production Type, 2017  
 "a new serif face for screen use"  
 [sur Google Fonts](https://fonts.google.com/specimen/Spectral)
 [page de présentation](https://www.productiontype.com/family/spectral) /
@@ -37,20 +38,21 @@ par Production Type
 ![Specimen Spectral](img/serif/spectral-300.png)
 
 **Newsreader**  
-aussi par Production Type  
+par Production Type, 2020  
 [sur Google Fonts](https://fonts.google.com/specimen/Newsreader) / 
 [page de présentation](https://www.productiontype.com/family/newsreader)
 
 ![Specimen Newsreader](img/serif/newsreader.png)
 
 **Merriweather**  
+par Eben Sorkin, 2016
 (aussi: Merriweather Sans)  
-https://github.com/SorkinType/Merriweather 
+[sur Github](https://github.com/SorkinType/Merriweather)
 
 ![Specimen Merriweather](img/serif/merriweather.png)
 
 **Cormorant**  
-by Christian Thalmann of Catharsis Fonts  
+by Christian Thalmann, Catharsis Fonts, 2015  
 une garalde – "an extravagant display serif typeface inspired by the Garamond heritage"  
 https://github.com/CatharsisFonts/Cormorant/ 
 
@@ -84,14 +86,14 @@ old-style serif font designed for academic users
 
 **Bodoni Moda**  
 "a no-compromises Bodoni family, built for the digital age"  
-par Owen Earl,  indestructible type.  
+par Owen Earl,  indestructible type, 2019-2020.  
 [sur Github](https://github.com/indestructible-type/Bodoni)  
 [sur Google Fonts](https://fonts.google.com/specimen/Bodoni+Moda)
 
 ![Specimen Bodoni Moda](img/serif/bodoni-moda.png)
 
 **Playfair Display**  
-par Claus Eggers Sørensen  
+par Claus Eggers Sørensen, 2017  
 [sur Github](https://github.com/clauseggers/Playfair-Display) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Playfair+Display)
 
@@ -100,7 +102,7 @@ par Claus Eggers Sørensen
 ### Fontes Slab Serif (égyptiennes, mécanes)
 
 **Zilla Slab** 
-by Peter Biľak and Nikola Djurek, typeface designers for the Typotheque foundry  
+by Peter Biľak and Nikola Djurek, typeface designers for the Typotheque foundry, 2017  
 used as the branding font for Mozilla Foundation  
 [sur Github](https://github.com/mozilla/zilla-slab) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Zilla+Slab) 
@@ -117,7 +119,7 @@ par Sol Matas
 
 **Besley**  
 "antique slab serif inspired by Robert Besley's Clarendon"  
-par Owen Earl,  indestructible type.  
+par Owen Earl,  indestructible type, 2020.  
 [sur Github](https://github.com/indestructible-type/Besley) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Besley)
 
@@ -128,7 +130,9 @@ par Owen Earl,  indestructible type.
 ### Fontes serif historiques
 
 **Gotico-Antiqua, Proto-Roman, Hybrid**  
-Une collection de 15 fontes basées sur des modèles historiques (1459-1482), produites par l'Atelier national de recherche typographique: "In parallel to historical research, Rafael Ribas & Alexis Faudot, researchers at ANRT, produced fifteen fonts and one set of initial letters. Based on a series of workshop sessions conducted between 2015 and 2018 in art & design schools across France and Germany, with over 150 students, the digital typefaces are the result of a thorough analysis and redesign of the originals."  
-[sur Github](https://github.com/anrt-type/GoticoAntiqua) / [site officiel](https://gotico-antiqua.anrt-nancy.fr/#caracteres)
+Une collection de 15 fontes basées sur des modèles historiques (1459-1482), produites par l'Atelier national de recherche typographique:  
+"Parallèlement aux recherches historiques, Rafael Ribas et Alexis Faudot, chercheurs à l’ANRT, ont produit quinze fontes et un ensemble de lettres initiales. Fondés sur une série d’ateliers menés entre 2015 et 2018 dans des écoles d’art et de design en France et en Allemagne, réunissant plus de 150 étudiants, les polices de caractères numériques sont le résultat d’une analyse approfondie et d’une refonte des originaux."  
+[sur Github](https://github.com/anrt-type/GoticoAntiqua) / 
+[site officiel](https://gotico-antiqua.anrt-nancy.fr/#caracteres)
 
 ![Une parmi les 15 fontes](img/serif/gotico-antiqua.png)
