@@ -79,6 +79,10 @@ interface font of the Tizen operating system and the Samsung Galaxy Watch.
 https://developer.tizen.org/design/platform/styles/typography 
 
 
+**Jost**  
+"inspired by 1920s German sans-serifs"  
+[sur Google Fonts](https://fonts.google.com/specimen/Jost)
+
 **HK Grotesk** 
 par Hanken Design Co.  
 sans serif typeface inspired by the classic grotesques 
