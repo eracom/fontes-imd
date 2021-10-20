@@ -71,6 +71,12 @@ nouvelle version: JuniusX
 **Cardo**   
 old-style serif font designed for academic users 
 
+**Bodoni Moda**  
+"a no-compromises Bodoni family, built for the digital age"  
+par Owen Earl,  indestructible type.  
+[https://github.com/indestructible-type/Bodoni](https://github.com/indestructible-type/Bodoni)  
+[https://fonts.google.com/specimen/Bodoni+Moda](https://fonts.google.com/specimen/Bodoni+Moda)
+
 
 **Playfair Display**  
 par Claus Eggers Sørensen  
