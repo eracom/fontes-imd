@@ -11,27 +11,38 @@ Ce document présente des propositions pour une collection de fontes open-source
 **Roboto**  
 par Christian Robertson pour Google 
 
+![Specimen Roboto](img/sans/roboto.png)
   
 **Droid Sans**  
 **Open Sans**  
 **Noto Sans**  
 fontes système de Google 
 
+![Specimen Droid Sans](img/sans/droid-sans.png)
+
+![Specimen Open Sans](img/sans/open-sans.png)
+
+![Specimen Noto Sans](img/sans/open-sans.png)
+
+---
 
 **Source Sans Pro**  
 Adobe's first open source typeface family, designed by Paul D. Hunt. It is a sans serif typeface intended to work well in user interfaces.
-  
+
+![Specimen Source Sans Pro](img/sans/source-sans-pro.png)
 
 **Public Sans**  
 A strong, neutral typeface for interfaces, text, and headings.  
 Developed by the United States Web Design System.  
-https://public-sans.digital.gov/ 
+[Site officiel](https://public-sans.digital.gov/) / [sur Google Fonts](https://fonts.google.com/specimen/Public+Sans) 
 
-
+![Specimen Public Sans](img/sans/public-sans.png)
 
 **Cooper Hewitt** 
 par Eddie Opara (Pentagram) et Chester Jenkins (Village)   
-https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/  
+[Site officiel](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) 
+
+![Specimen Cooper Hewitt](img/sans/cooper-hewitt.png)
 
 ***
 
@@ -43,24 +54,30 @@ developed by Mike Abbink at IBM
 - IBM Plex Serif 
 - IBM Plex Mono 
 
-https://www.ibm.com/plex/ 
+[Site officiel](https://www.ibm.com/plex/)
+
+![Specimen IBM Plex Sans](img/sans/ibm-plex-sans.png)
 
 ***  
 
 **Inter**  
-par Rasmus Andersson  
-https://rsms.me/inter/ 
-"Inter is similar to Roboto, San Francisco, Akkurat, Asap, Lucida Grande and other "UI" and "Text" typefaces" 
+par Rasmus Andersson   
+"Inter is similar to Roboto, San Francisco, Akkurat, Asap, Lucida Grande and other "UI" and "Text" typefaces"  
+[Site officiel](https://rsms.me/inter/) / [sur Google Fonts](https://fonts.google.com/specimen/Inter)
 
+![Specimen Inter](img/sans/inter.png)
 
 **Clear Sans**  
 par Intel 
-  
+
+![Specimen Clear Sans](img/sans/clear-sans.png)
 
 **Manrope**  
 (Modern Geometric Sans-Serif)  
-https://manropefont.com/  
-par Mikhail Sharanda (Design Director at Huawei) 
+par Mikhail Sharanda (Design Director at Huawei)  
+[site officiel](https://manropefont.com/) / [sur Google Fonts](https://fonts.google.com/specimen/Manrope)
+
+![Specimen Manrope](img/sans/manrope.png)
 
   
 **Fira Sans**   
@@ -72,16 +89,21 @@ aussi: Fira Mono et FiraGO
 https://github.com/mozilla/Fira  
 https://bboxtype.com/typefaces/FiraGO/ 
 
+![Specimen Fira Sans](img/sans/fira-sans.png)
 
 **Breeze Sans**   
 a humanist sans-serif typeface designed by Dalton Maag for Samsung.  
 interface font of the Tizen operating system and the Samsung Galaxy Watch.  
 https://developer.tizen.org/design/platform/styles/typography 
 
+![Specimen Breeze Sans](img/sans/breeze-sans.png)
 
 **Jost**  
 "inspired by 1920s German sans-serifs"  
-[sur Google Fonts](https://fonts.google.com/specimen/Jost)
+[sur Google Fonts](https://fonts.google.com/specimen/Jost) / 
+[page de démonstration](https://indestructibletype.com/Jost.html)
+
+![Specimen Jost](img/sans/jost.png)
 
 **Epilogue**  
 par Tyler Finck — Etcetera Type Co  
@@ -89,25 +111,32 @@ par Tyler Finck — Etcetera Type Co
 [sur Github](https://github.com/Etcetera-Type-Co/Epilogue) / 
 [page de démonstration](https://www.etceteratype.co/epilogue)
 
+![Specimen Epilogue](img/sans/epilogue.png)
+
 **HK Grotesk** 
 par Hanken Design Co.  
 sans serif typeface inspired by the classic grotesques 
 
+![Specimen HK Grotesk](img/sans/hk-grotesk.png)
 
 **Barlow** 
 par Jeremy Tribby  
-a grotesk variable font superfamily  
-Barlow is a slightly rounded, low-contrast, grotesk type family  
-https://tribby.com/fonts/barlow/ 
-  
+a slightly rounded, low-contrast, grotesk type family (variable font)  
+[sur Google Fonts](https://fonts.google.com/specimen/Barlow) / 
+[page de démonstration](https://tribby.com/fonts/barlow/) 
+
+![Specimen Barlow](img/sans/barlow.png)
 
 **Montserrat** 
 
+![Specimen Montserrat](img/sans/montserrat.png)
 
 **Archivo**  
 et **Chivo**
 
-  
-
 **Poppins**  
 et **DM Sans** 
+
+![Specimen Poppins](img/sans/poppins.png)
+
+![Specimen DM Sans](img/sans/dm-sans.png)
