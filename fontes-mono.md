@@ -7,13 +7,14 @@ Ce document présente des propositions pour une collection de fontes open-source
 
 ## Fontes Mono
 
-10 fontes mono-espacées à connaître:
+### 10 fontes mono-espacées à connaître
 
 **1) Source Code Pro**   
 monospaced sans serif typeface created by Paul D. Hunt for Adobe Systems. 
 
 ![Specimen Source Code Pro](img/mono/source-code-pro.png)
 
+***
 
 **2) iA-Fonts**   
 (based on IBM Plex)  
@@ -21,6 +22,8 @@ Source: https://github.com/iaolo/iA-Fonts
 Lire: https://ia.net/writer/blog/a-typographic-christmas 
 
 ![Specimen iA Writer Duospace](img/mono/ia-writer-duospace.png)
+
+***
 
 ### 3) Recursive
 
@@ -48,10 +51,14 @@ par Aaron Bell, pour Microsoft, 2019
 
 ![Specimen Cascadia](img/mono/cascadia-code.png)
 
+***
+
 **5) Roboto Mono**  
 Dans la famille Roboto de Google
 
 ![Specimen Roboto Mono](img/mono/roboto-mono.png)
+
+***
 
 **6) JetBrains Mono**  
 pour la société éditrice de logiciels JetBrains, 2020  
@@ -61,6 +68,8 @@ pour la société éditrice de logiciels JetBrains, 2020
 
 ![Specimen JetBrains Mono](img/mono/jetbrains-mono.png)
 
+***
+
 **7) Space Mono**  
 Par Colophon Foundry, 2016  
 [sur Google Fonts](https://fonts.google.com/specimen/Space+Mono) / 
@@ -69,6 +78,8 @@ Par Colophon Foundry, 2016
 
 ![Specimen Space Mono](img/mono/space-mono.png)
 
+***
+
 **8) Inconsolata**  
 par Raph Levien, 2006  
 [sur Github](https://github.com/googlefonts/inconsolata) / 
@@ -76,6 +87,7 @@ par Raph Levien, 2006
 
 ![Specimen Inconsolata](img/mono/inconsolata.png)
 
+***
 
 **9) Trispace**  
 par Tyler Finck, 2020  
@@ -85,6 +97,8 @@ Version de League Mono modifiée, en Variable Font
 [sur Google Fonts](https://fonts.google.com/specimen/Trispace)
 
 ![Specimen Trispace](img/mono/trispace.png)
+
+***
 
 **10) Iosevka**  
 par Renzhi Li, 2015  
@@ -102,9 +116,13 @@ par Owen Earl, indestructible type, 2021
 
 ![Specimen Drafting Mono](img/mono/drafting-mono-regular.png)
 
+***
+
 **Linux Libertine Mono** 
 
 ![Specimen Linux Libertine Mono](img/mono/linux-libertine-mono.png)
+
+***
 
 **Luxi Mono** 
 
