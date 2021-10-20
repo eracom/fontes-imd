@@ -9,28 +9,23 @@ Ce document présente des propositions pour une collection de fontes open-source
 
 
 **Source Serif Pro**
-par Frank Grießhammer pour Adobe Systems   
+par Frank Grießhammer pour Adobe Systems  
 (aussi dans cette famille: Source Sans Pro et Source Code Pro) 
 
- 
-**Zilla Slab** 
-by Peter Biľak and Nikola Djurek, typeface designers for the Typotheque foundry  
-used as the branding font for Mozilla Foundation  
-https://github.com/mozilla/zilla-slab 
-
+![Specimen Source Serif Pro](img/serif/source-serif-pro.png)
  
 **Fraunces**  
 by Undercase Type  
 a Variable Font with four axes: Weight (wght), Optical Size (opsz), Softness (SOFT), and Wonky (WONK)  
 https://fraunces.undercase.xyz/
- 
+
+![Specimen Fraunces](img/serif/fraunces.png)
 
 **ET Book**  
 "A webfont of the typeface used in Edward Tufte’s books."  
-a Bembo-like font for the computer designed by Dmitry Krasny, Bonnie Scranton, and Edward Tufte. It is free and open-source.
+a Bembo-like font for the computer designed by Dmitry Krasny, Bonnie Scranton, and Edward Tufte.
 
-
-
+![Specimen ET Book](img/serif/et-book-roman.png)
   
 **Spectral**  
 par Production Type  
@@ -77,13 +72,13 @@ https://github.com/dbenjaminmiller/rwgaramond
 **Junicode**  
 developed especially for medievalists  
 nouvelle version: JuniusX  
-[https://psb1558.github.io/Junicode-New/](https://psb1558.github.io/Junicode-New/) 
+[sur Github](https://psb1558.github.io/Junicode-New/) 
 
-
+![Specimen Junicode](img/serif/junicode.png)
 
 **Cardo**   
 old-style serif font designed for academic users  
-https://fonts.google.com/specimen/Cardo
+[sur Google Fonts](https://fonts.google.com/specimen/Cardo)
 
 ![Specimen Cardo](img/serif/cardo.png)
 
@@ -102,6 +97,13 @@ par Claus Eggers Sørensen
 ![Specimen Playfair Display](img/serif/playfair-display.png)
 
 ### Fontes Slab Serif (égyptiennes, mécanes)
+
+**Zilla Slab** 
+by Peter Biľak and Nikola Djurek, typeface designers for the Typotheque foundry  
+used as the branding font for Mozilla Foundation  
+[sur Github](https://github.com/mozilla/zilla-slab) 
+
+![Specimen Zilla Slab](img/serif/zilla-slab.png)
 
 **Bitter**  
 par Sol Matas  

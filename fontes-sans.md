@@ -16,7 +16,7 @@ par Christian Robertson pour Google
 **Droid Sans**  
 **Open Sans**  
 **Noto Sans**  
-fontes système de Google 
+fontes système de Google (pratiquement identiques) 
 
 ![Specimen Droid Sans](img/sans/droid-sans.png)
 
