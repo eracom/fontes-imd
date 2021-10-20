@@ -30,9 +30,6 @@ https://fraunces.undercase.xyz/
 a Bembo-like font for the computer designed by Dmitry Krasny, Bonnie Scranton, and Edward Tufte. It is free and open-source.
 
 
-**Bitter**  
-par Sol Matas  
-http://www.solmatas.com/#/bitter/ 
 
   
 **Spectral**  
@@ -69,18 +66,41 @@ nouvelle version: JuniusX
 
 
 **Cardo**   
-old-style serif font designed for academic users 
+old-style serif font designed for academic users  
+https://fonts.google.com/specimen/Cardo
 
 **Bodoni Moda**  
 "a no-compromises Bodoni family, built for the digital age"  
 par Owen Earl,  indestructible type.  
-[https://github.com/indestructible-type/Bodoni](https://github.com/indestructible-type/Bodoni)  
-[https://fonts.google.com/specimen/Bodoni+Moda](https://fonts.google.com/specimen/Bodoni+Moda)
+[sur Github](https://github.com/indestructible-type/Bodoni)  
+[sur Google Fontes](https://fonts.google.com/specimen/Bodoni+Moda)
 
+![Specimen Bodoni Moda](img/serif/bodoni-moda.png)
 
 **Playfair Display**  
 par Claus Eggers Sørensen  
 [https://github.com/clauseggers/Playfair-Display](https://github.com/clauseggers/Playfair-Display)
+
+### Fontes Slab Serif (égyptiennes, mécanes)
+
+**Bitter**  
+par Sol Matas  
+http://www.solmatas.com/#/bitter/ 
+
+![Specimen Bitter](img/serif/bitter.png)
+
+
+**Besley**  
+"antique slab serif inspired by Robert Besley's Clarendon"  
+par Owen Earl,  indestructible type.  
+[sur Github](https://github.com/indestructible-type/Besley)  
+[sur Google Fonts](https://fonts.google.com/specimen/Besley)
+
+![Specimen Besley](img/serif/besley.png)
+
+---
+
+### Fontes serif historiques
 
 **Gotico-Antiqua, Proto-Roman, Hybrid**  
 Une collection de 15 fontes basées sur des modèles historiques (1459-1482), produites par l'Atelier national de recherche typographique: "In parallel to historical research, Rafael Ribas & Alexis Faudot, researchers at ANRT, produced fifteen fonts and one set of initial letters. Based on a series of workshop sessions conducted between 2015 and 2018 in art & design schools across France and Germany, with over 150 students, the digital typefaces are the result of a thorough analysis and redesign of the originals." [https://github.com/anrt-type/GoticoAntiqua](https://github.com/anrt-type/GoticoAntiqua)
