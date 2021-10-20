@@ -8,12 +8,14 @@ Ce document présente des propositions pour une collection de fontes open-source
 ## Fontes Serif
 
 
-**Source Serif Pro**
+**Source Serif Pro**  
 par Frank Grießhammer pour Adobe Systems  
 (aussi dans cette famille: Source Sans Pro et Source Code Pro) 
 
 ![Specimen Source Serif Pro](img/serif/source-serif-pro.png)
- 
+
+***
+
 **Fraunces**  
 by Undercase Type, 2020  
 a Variable Font with four axes: Weight (wght), Optical Size (opsz), Softness (SOFT), and Wonky (WONK)  
@@ -23,13 +25,17 @@ a Variable Font with four axes: Weight (wght), Optical Size (opsz), Softness (SO
 
 ![Specimen Fraunces](img/serif/fraunces.png)
 
+***
+
 **ET Book**  
 "A webfont of the typeface used in Edward Tufte’s books."  
 a Bembo-like font for the computer, designed by Dmitry Krasny, Bonnie Scranton, and Edward Tufte (2015).  
 [sur Github](https://github.com/edwardtufte/et-book)
 
 ![Specimen ET Book](img/serif/et-book-roman.png)
-  
+
+***
+
 **Spectral**  
 par Production Type, 2017  
 "a new serif face for screen use"  
@@ -46,6 +52,8 @@ par Production Type, 2020
 
 ![Specimen Newsreader](img/serif/newsreader.png)
 
+***
+
 **Merriweather**  
 par Eben Sorkin, 2016
 (aussi: Merriweather Sans)  
@@ -54,6 +62,8 @@ par Eben Sorkin, 2016
 
 ![Specimen Merriweather](img/serif/merriweather.png)
 
+***
+
 **Cormorant**  
 by Christian Thalmann, Catharsis Fonts, 2015  
 une garalde – "an extravagant display serif typeface inspired by the Garamond heritage"  
@@ -61,7 +71,8 @@ une garalde – "an extravagant display serif typeface inspired by the Garamond 
 [sur Github](https://github.com/CatharsisFonts/Cormorant/) 
 
 ![Specimen Cormorant](img/serif/cormorant.png)
-  
+
+***
 
 **EB Garamond**  
 Digitization of the Garamond shown on the Egenolff-Berner specimen  
@@ -74,6 +85,7 @@ aussi:
 **RW Garamond**  
 https://github.com/dbenjaminmiller/rwgaramond 
 
+***
 
 **Junicode**  
 developed especially for medievalists  
@@ -82,11 +94,15 @@ nouvelle version: JuniusX
 
 ![Specimen Junicode](img/serif/junicode.png)
 
+***
+
 **Cardo**   
 old-style serif font designed for academic users  
 [sur Google Fonts](https://fonts.google.com/specimen/Cardo)
 
 ![Specimen Cardo](img/serif/cardo.png)
+
+***
 
 **Bodoni Moda**  
 "a no-compromises Bodoni family, built for the digital age"  
@@ -95,6 +111,8 @@ par Owen Earl,  indestructible type, 2019-2020.
 [sur Google Fonts](https://fonts.google.com/specimen/Bodoni+Moda)
 
 ![Specimen Bodoni Moda](img/serif/bodoni-moda.png)
+
+***
 
 **Playfair Display**  
 par Claus Eggers Sørensen, 2017  
@@ -113,6 +131,8 @@ used as the branding font for Mozilla Foundation
 
 ![Specimen Zilla Slab](img/serif/zilla-slab.png)
 
+***
+
 **Bitter**  
 par Sol Matas, 2010  
 [site officiel](http://www.solmatas.com/bitter) / 
@@ -120,6 +140,7 @@ par Sol Matas, 2010
 
 ![Specimen Bitter](img/serif/bitter.png)
 
+***
 
 **Besley**  
 "antique slab serif inspired by Robert Besley's Clarendon"  
