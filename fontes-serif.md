@@ -86,13 +86,14 @@ old-style serif font designed for academic users
 "a no-compromises Bodoni family, built for the digital age"  
 par Owen Earl,  indestructible type.  
 [sur Github](https://github.com/indestructible-type/Bodoni)  
-[sur Google Fontes](https://fonts.google.com/specimen/Bodoni+Moda)
+[sur Google Fonts](https://fonts.google.com/specimen/Bodoni+Moda)
 
 ![Specimen Bodoni Moda](img/serif/bodoni-moda.png)
 
 **Playfair Display**  
 par Claus Eggers Sørensen  
-[https://github.com/clauseggers/Playfair-Display](https://github.com/clauseggers/Playfair-Display)
+[sur Github](https://github.com/clauseggers/Playfair-Display) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Playfair+Display)
 
 ![Specimen Playfair Display](img/serif/playfair-display.png)
 
