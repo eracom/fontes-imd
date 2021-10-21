@@ -9,7 +9,9 @@ Ce document présente des propositions pour une collection de fontes open-source
 
 
 **Roboto**  
-par Christian Robertson pour Google 
+par Christian Robertson pour Google, 2011  
+[sur Google Fonts](https://fonts.google.com/specimen/Roboto) / 
+[sur Github](https://github.com/googlefonts/roboto)
 
 ![Specimen Roboto](img/sans/roboto.png)
 
@@ -29,7 +31,7 @@ Autres fontes système de Google (pratiquement identiques):
 
 **IBM Plex** 
 
-par Mike Abbink pour IBM, 2018  
+par Mike Abbink pour IBM, 2017  
 Famille de fontes qui comporte trois variantes:
 
 - IBM Plex Sans 
@@ -37,6 +39,7 @@ Famille de fontes qui comporte trois variantes:
 - IBM Plex Mono 
 
 [Site officiel](https://www.ibm.com/plex/) / 
+[sur Github](https://github.com/IBM/plex) / 
 [sur Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Sans)
 
 ![Specimen IBM Plex Sans](img/sans/ibm-plex-sans.png)

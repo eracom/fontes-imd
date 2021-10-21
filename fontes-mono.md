@@ -10,18 +10,24 @@ Ce document présente des propositions pour une collection de fontes open-source
 ### 10 fontes mono-espacées à connaître
 
 **1) Source Code Pro**   
-monospaced sans serif typeface created by Paul D. Hunt for Adobe Systems. 
+by Paul D. Hunt for Adobe Systems, 2010-2019.  
+[sur Github](https://github.com/adobe-fonts/source-code-pro) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Source+Code+Pro)
 
 ![Specimen Source Code Pro](img/mono/source-code-pro.png)
 
 ***
 
 **2) iA-Fonts**   
-(based on IBM Plex)  
-Source: https://github.com/iaolo/iA-Fonts  
-Lire: https://ia.net/writer/blog/a-typographic-christmas 
+Variante de IBM Plex Mono, pour le logiciel iA Writer, 2018.    
+[sur Github](https://github.com/iaolo/iA-Fonts) / 
+[article explicatif](https://ia.net/writer/blog/a-typographic-christmas) 
 
-![Specimen iA Writer Duospace](img/mono/ia-writer-duospace.png)
+![iA Writer Mono](img/mono/ia-writer-mono.png)
+
+![iA Writer Duospace](img/mono/ia-writer-duospace.png)
+
+![iA Writer Quattro](img/mono/ia-writer-quattro.png)
 
 ***
 
