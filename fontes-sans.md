@@ -68,7 +68,7 @@ Developed by the United States Web Design System.
 ***
 
 **Inter**  
-par Rasmus Andersson   
+par Rasmus Andersson, 2017  
 "Inter is similar to Roboto, San Francisco, Akkurat, Asap, Lucida Grande and other "UI" and "Text" typefaces"  
 [Site officiel](https://rsms.me/inter/) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Inter)
@@ -78,7 +78,7 @@ par Rasmus Andersson
 ***
 
 **Cooper Hewitt** 
-par Eddie Opara (Pentagram) et Chester Jenkins (Village)   
+par Chester Jenkins (Village), 2014   
 [Site officiel](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) 
 
 ![Specimen Cooper Hewitt](img/sans/cooper-hewitt.png)
@@ -86,7 +86,7 @@ par Eddie Opara (Pentagram) et Chester Jenkins (Village)
 ***
 
 **Clear Sans**  
-par Intel  
+par Intel, 2013  
 created and designed by Daniel Ratighan at Monotype under the direction of the User Experience team at Intel's Open Source Technology Center  
 [sur Github](https://github.com/intel/clear-sans)
 
@@ -94,10 +94,10 @@ created and designed by Daniel Ratighan at Monotype under the direction of the U
 
 ***
 
-
+### Fontes à tendance humaniste
 
 **Fira Sans**   
-a humanist sans-serif typeface designed by Erik Spiekermann 
+a humanist sans-serif typeface designed by Erik Spiekermann, 2013 
 a slightly wider and calmer adaptation of Spiekermann's typeface Meta.  
 Fira Sans is the font of choice for the New Zealand Government and the Government of Iceland. 
 
@@ -117,6 +117,8 @@ https://developer.tizen.org/design/platform/styles/typography
 ![Specimen Breeze Sans](img/sans/breeze-sans.png)
 
 ***
+
+### Fontes à tendance géométrique
 
 **Poppins**  
 et **DM Sans**  
