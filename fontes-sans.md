@@ -10,7 +10,9 @@ Ce document présente des propositions pour une collection de fontes open-source
 **Droid Sans**
 par Steve Matteson, fonte créée en 2007 our le système Android.  
 **Open Sans** (2011) et **Noto Sans** (2013) sont dérivées de Droid Sans, leur design est pratiquement identique.  
-[Open Sans sur Github](https://github.com/googlefonts/opensans) / [Noto sur Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans)
+[Open Sans sur Github](https://github.com/googlefonts/opensans) / 
+[Open Sans sur Google Fonts](https://fonts.google.com/specimen/Open+Sans) / 
+[Noto sur Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans)
 
 ![Specimen Droid Sans](img/sans/droid-sans.png)
 
@@ -39,16 +41,14 @@ par Christian Robertson pour Google, 2011
 
 ***
 
-
-
 **IBM Plex** 
 
 par Mike Abbink pour IBM, 2017  
 Famille de fontes qui comporte trois variantes:
 
-- IBM Plex Sans 
-- IBM Plex Serif 
-- IBM Plex Mono 
+- IBM Plex Sans
+- IBM Plex Serif
+- IBM Plex Mono
 
 [Site officiel](https://www.ibm.com/plex/) / 
 [sur Github](https://github.com/IBM/plex) / 
@@ -58,14 +58,22 @@ Famille de fontes qui comporte trois variantes:
 
 ***  
 
-
-
 **Public Sans**  
 A strong, neutral typeface for interfaces, text, and headings.  
 Developed by the United States Web Design System.  
 [Site officiel](https://public-sans.digital.gov/) / [sur Google Fonts](https://fonts.google.com/specimen/Public+Sans) 
 
 ![Specimen Public Sans](img/sans/public-sans.png)
+
+***
+
+**Inter**  
+par Rasmus Andersson   
+"Inter is similar to Roboto, San Francisco, Akkurat, Asap, Lucida Grande and other "UI" and "Text" typefaces"  
+[Site officiel](https://rsms.me/inter/) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Inter)
+
+![Specimen Inter](img/sans/inter.png)
 
 ***
 
@@ -86,13 +94,27 @@ created and designed by Daniel Ratighan at Monotype under the direction of the U
 
 ***
 
-**Inter**  
-par Rasmus Andersson   
-"Inter is similar to Roboto, San Francisco, Akkurat, Asap, Lucida Grande and other "UI" and "Text" typefaces"  
-[Site officiel](https://rsms.me/inter/) / 
-[sur Google Fonts](https://fonts.google.com/specimen/Inter)
 
-![Specimen Inter](img/sans/inter.png)
+
+**Fira Sans**   
+a humanist sans-serif typeface designed by Erik Spiekermann 
+a slightly wider and calmer adaptation of Spiekermann's typeface Meta.  
+Fira Sans is the font of choice for the New Zealand Government and the Government of Iceland. 
+
+aussi: Fira Mono et FiraGO  
+https://github.com/mozilla/Fira  
+https://bboxtype.com/typefaces/FiraGO/ 
+
+![Specimen Fira Sans](img/sans/fira-sans.png)
+
+***
+
+**Breeze Sans**   
+a humanist sans-serif typeface designed by Dalton Maag for Samsung, 2013.  
+interface font of the Tizen operating system and the Samsung Galaxy Watch.  
+https://developer.tizen.org/design/platform/styles/typography 
+
+![Specimen Breeze Sans](img/sans/breeze-sans.png)
 
 ***
 
@@ -134,27 +156,7 @@ par Mikhail Sharanda (Design Director at Huawei)
 
 ***
 
-**Fira Sans**   
-a humanist sans-serif typeface designed by Erik Spiekermann 
-a slightly wider and calmer adaptation of Spiekermann's typeface Meta.  
-Fira Sans is the font of choice for the New Zealand Government and the Government of Iceland. 
 
-aussi: Fira Mono et FiraGO  
-https://github.com/mozilla/Fira  
-https://bboxtype.com/typefaces/FiraGO/ 
-
-![Specimen Fira Sans](img/sans/fira-sans.png)
-
-***
-
-**Breeze Sans**   
-a humanist sans-serif typeface designed by Dalton Maag for Samsung, 2013.  
-interface font of the Tizen operating system and the Samsung Galaxy Watch.  
-https://developer.tizen.org/design/platform/styles/typography 
-
-![Specimen Breeze Sans](img/sans/breeze-sans.png)
-
-***
 
 **Epilogue**  
 par Tyler Finck, Etcetera Type Co, 2020  
@@ -194,7 +196,7 @@ a slightly rounded, low-contrast, grotesk type family (variable font)
 **Archivo**  
 et **Chivo**
 
-### Fontes géométriques
+***
 
 **Jost**  
 par Owen Earl, Indestructible Type, 2017-2020    
