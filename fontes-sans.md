@@ -7,6 +7,28 @@ Ce document présente des propositions pour une collection de fontes open-source
 
 ## Fontes Sans Serif 
 
+**Droid Sans**
+par Steve Matteson, fonte créée en 2007 our le système Android.  
+**Open Sans** (2011) et **Noto Sans** (2013) sont dérivées de Droid Sans, leur design est pratiquement identique.  
+[Open Sans sur Github](https://github.com/googlefonts/opensans) / [Noto sur Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans)
+
+![Specimen Droid Sans](img/sans/droid-sans.png)
+
+![Specimen Open Sans](img/sans/open-sans.png)
+
+![Specimen Noto Sans](img/sans/open-sans.png)
+
+***
+
+**Source Sans Pro**  
+par Paul D. Hunt, pour Adobe, 2012  
+"A sans serif typeface intended to work well in user interfaces"  
+[sur Github](https://github.com/adobe-fonts/source-sans) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro)
+
+![Specimen Source Sans Pro](img/sans/source-sans-pro.png)
+
+***
 
 **Roboto**  
 par Christian Robertson pour Google, 2011  
@@ -15,19 +37,9 @@ par Christian Robertson pour Google, 2011
 
 ![Specimen Roboto](img/sans/roboto.png)
 
-Autres fontes système de Google (pratiquement identiques):  
-**Droid Sans**  
-**Open Sans**  
-**Noto Sans**  
-
-![Specimen Droid Sans](img/sans/droid-sans.png)
-
-![Specimen Open Sans](img/sans/open-sans.png)
-
-![Specimen Noto Sans](img/sans/open-sans.png)
-
-
 ***
+
+
 
 **IBM Plex** 
 
@@ -46,12 +58,7 @@ Famille de fontes qui comporte trois variantes:
 
 ***  
 
-**Source Sans Pro**  
-Adobe's first open source typeface family, designed by Paul D. Hunt. It is a sans serif typeface intended to work well in user interfaces.
 
-![Specimen Source Sans Pro](img/sans/source-sans-pro.png)
-
-***
 
 **Public Sans**  
 A strong, neutral typeface for interfaces, text, and headings.  
