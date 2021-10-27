@@ -148,6 +148,14 @@ Fonte de l'entreprise japonaise Soramitsu
 
 ***
 
+**Lexend**  
+Fonte optimisée pour la lisibilité, dérivée de la fonte Quicksand.  
+[site officiel](https://www.lexend.com/) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Lexend)
+
+***
+
+
 **Manrope**  
 par Mikhail Sharanda (Design Director at Huawei)  
 "Modern Geometric Sans-Serif"  
