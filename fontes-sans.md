@@ -61,7 +61,9 @@ Famille de fontes qui comporte trois variantes:
 **Public Sans**  
 A strong, neutral typeface for interfaces, text, and headings.  
 Developed by the United States Web Design System.  
-[Site officiel](https://public-sans.digital.gov/) / [sur Google Fonts](https://fonts.google.com/specimen/Public+Sans) 
+[Site officiel](https://public-sans.digital.gov/) / 
+[sur Github](https://github.com/uswds/public-sans) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Public+Sans)
 
 ![Specimen Public Sans](img/sans/public-sans.png)
 
