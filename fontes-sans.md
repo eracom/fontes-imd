@@ -159,16 +159,6 @@ Fonte de l'entreprise japonaise Soramitsu
 
 ***
 
-**Lexend**  
-Fonte optimisée pour la lisibilité, dérivée de la fonte Quicksand.  
-[site officiel](https://www.lexend.com/) / 
-[sur Google Fonts](https://fonts.google.com/specimen/Lexend)
-
-![Specimen Lexend](img/sans/lexend.png)
-
-***
-
-
 **Manrope**  
 par Mikhail Sharanda (Design Director at Huawei)  
 "Modern Geometric Sans-Serif"  
@@ -179,8 +169,6 @@ par Mikhail Sharanda (Design Director at Huawei)
 
 ***
 
-
-
 **Epilogue**  
 par Tyler Finck, Etcetera Type Co, 2020  
 [sur Google Fonts](https://fonts.google.com/specimen/Epilogue) /
@@ -188,6 +176,25 @@ par Tyler Finck, Etcetera Type Co, 2020
 [page de démonstration](https://www.etceteratype.co/epilogue)
 
 ![Specimen Epilogue](img/sans/epilogue.png)
+
+***
+
+**Syne**  
+imagined by Bonjour Monde and designed by Lucas Descroix   
+Type family originally designed for Synesthésie art center (Saint-Denis, Fr)  
+[sur Google Fonts](https://fonts.google.com/specimen/Syne) /
+[sur Gitlab](https://gitlab.com/bonjour-monde/fonderie/syne-typeface)
+
+![Specimen Syne](img/sans/syne-sans.png)
+
+***
+
+**Lexend**  
+Fonte optimisée pour la lisibilité, dérivée de la fonte Quicksand.  
+[site officiel](https://www.lexend.com/) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Lexend)
+
+![Specimen Lexend](img/sans/lexend.png)
 
 ***
 
