@@ -60,7 +60,7 @@ Famille de fontes qui comporte trois variantes:
 
 **Public Sans**  
 A strong, neutral typeface for interfaces, text, and headings.  
-Developed by the United States Web Design System.  
+Developed by the United States Web Design System. Based on Libre Franklin.  
 [Site officiel](https://public-sans.digital.gov/) / 
 [sur Github](https://github.com/uswds/public-sans) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Public+Sans)
