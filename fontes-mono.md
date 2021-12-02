@@ -33,6 +33,10 @@ Variante de IBM Plex Mono, pour le logiciel iA Writer, 2018.
 
 ![iA Writer Quattro](img/mono/ia-writer-quattro.png)
 
+![IBM Plex Mono](img/mono/ibm-plex-mono.png)
+
+![IBM Plex Mono Italic](img/mono/ibm-plex-mono-italic.png)
+
 ***
 
 ### 3) Recursive

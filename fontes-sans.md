@@ -83,16 +83,7 @@ par Chester Jenkins (Village), 2014
 
 ![Specimen Cooper Hewitt](img/sans/cooper-hewitt.png)
 
-***
 
-**Clear Sans**  
-par Intel, 2013  
-created and designed by Daniel Ratighan at Monotype under the direction of the User Experience team at Intel's Open Source Technology Center  
-[sur Github](https://github.com/intel/clear-sans)
-
-![Specimen Clear Sans](img/sans/clear-sans.png)
-
-***
 
 ### Fontes à tendance humaniste
 
@@ -106,6 +97,27 @@ https://github.com/mozilla/Fira
 https://bboxtype.com/typefaces/FiraGO/ 
 
 ![Specimen Fira Sans](img/sans/fira-sans.png)
+
+***
+
+**Inria Sans**  
+Fonte créée par BlackFoundry pour Inria (Institut national de recherche en sciences et technologies du numérique).  
+Famille de fontes qui comporte aussi une variante serif.
+[sur BlackFoundry](https://black-foundry.com/work/inria-2/) /
+[sur Github](https://github.com/BlackFoundryCom/InriaFonts) /
+[sur Google Fonts](https://fonts.google.com/specimen/Inria+Sans)
+
+![Specimen Inria](img/sans/inria-sans.png)
+
+
+***
+
+**Clear Sans**  
+par Intel, 2013  
+created and designed by Daniel Ratighan at Monotype under the direction of the User Experience team at Intel's Open Source Technology Center  
+[sur Github](https://github.com/intel/clear-sans)
+
+![Specimen Clear Sans](img/sans/clear-sans.png)
 
 ***
 
@@ -152,6 +164,8 @@ Fonte de l'entreprise japonaise Soramitsu
 Fonte optimisée pour la lisibilité, dérivée de la fonte Quicksand.  
 [site officiel](https://www.lexend.com/) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Lexend)
+
+![Specimen Lexend](img/sans/lexend.png)
 
 ***
 

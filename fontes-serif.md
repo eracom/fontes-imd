@@ -64,6 +64,29 @@ par Eben Sorkin, 2016
 
 ***
 
+**Inria Serif**  
+Fonte créée par BlackFoundry pour Inria (Institut national de recherche en sciences et technologies du numérique).  
+Famille de fontes qui comporte aussi une variante sans-serif.
+[sur BlackFoundry](https://black-foundry.com/work/inria-2/) /
+[sur Github](https://github.com/BlackFoundryCom/InriaFonts) /
+[sur Google Fonts](https://fonts.google.com/specimen/Inria+Sans)
+
+![Specimen Inria](img/serif/inria-serif.png)
+
+***
+
+**IBM Plex** 
+
+par Mike Abbink pour IBM, 2017  
+Famille de fontes qui comporte aussi une Sans Serif et une mono.  
+[Site officiel](https://www.ibm.com/plex/) / 
+[sur Github](https://github.com/IBM/plex) / 
+[sur Google Fonts](https://fonts.google.com/specimen/IBM+Plex+Sans)
+
+![Specimen IBM Plex Serif](img/serif/ibm-plex-serif.png)
+
+***  
+
 **Cormorant**  
 by Christian Thalmann, Catharsis Fonts, 2015  
 une garalde – "an extravagant display serif typeface inspired by the Garamond heritage"  
