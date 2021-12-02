@@ -102,13 +102,12 @@ https://bboxtype.com/typefaces/FiraGO/
 
 **Inria Sans**  
 Fonte créée par BlackFoundry pour Inria (Institut national de recherche en sciences et technologies du numérique).  
-Famille de fontes qui comporte aussi une variante serif.
+Famille de fontes qui comporte aussi une variante serif.  
 [sur BlackFoundry](https://black-foundry.com/work/inria-2/) /
 [sur Github](https://github.com/BlackFoundryCom/InriaFonts) /
 [sur Google Fonts](https://fonts.google.com/specimen/Inria+Sans)
 
 ![Specimen Inria](img/sans/inria-sans.png)
-
 
 ***
 

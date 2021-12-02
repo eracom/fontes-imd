@@ -66,7 +66,7 @@ par Eben Sorkin, 2016
 
 **Inria Serif**  
 Fonte créée par BlackFoundry pour Inria (Institut national de recherche en sciences et technologies du numérique).  
-Famille de fontes qui comporte aussi une variante sans-serif.
+Famille de fontes qui comporte aussi une variante sans-serif.  
 [sur BlackFoundry](https://black-foundry.com/work/inria-2/) /
 [sur Github](https://github.com/BlackFoundryCom/InriaFonts) /
 [sur Google Fonts](https://fonts.google.com/specimen/Inria+Sans)
