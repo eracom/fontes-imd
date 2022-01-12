@@ -115,7 +115,7 @@ Police basée sur l'édition de *Don Quichotte* publiée  par Joaquín Ibarra en
 [sur Google Fonts](https://fonts.google.com/specimen/Ibarra+Real+Nova) / 
 [sur Github](https://github.com/googlefonts/ibarrareal) 
 
-![Specimen Junicode](img/serif/ibarra-real-nova.png)
+![Specimen Ibarra Real Nova](img/serif/ibarra-real-nova.png)
 
 ***
 
