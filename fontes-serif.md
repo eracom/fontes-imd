@@ -110,6 +110,15 @@ https://github.com/dbenjaminmiller/rwgaramond
 
 ***
 
+**Ibarra Real Nova**  
+Police basée sur l'édition de *Don Quichotte* publiée  par Joaquín Ibarra en 1780.  
+[sur Google Fonts](https://fonts.google.com/specimen/Ibarra+Real+Nova) / 
+[sur Github](https://github.com/googlefonts/ibarrareal) 
+
+![Specimen Junicode](img/serif/ibarra-real-nova.png)
+
+***
+
 **Junicode**  
 developed especially for medievalists  
 nouvelle version: JuniusX  
