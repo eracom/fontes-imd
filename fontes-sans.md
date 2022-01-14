@@ -237,3 +237,12 @@ par Owen Earl, Indestructible Type, 2017-2020
 [page de démonstration](https://indestructibletype.com/Jost.html)
 
 ![Specimen Jost](img/sans/jost.png)
+
+***
+
+**Input** (superfamily: Sans, Serif, Mono / Compressed, Condensed, Narrow, Normal / formes alternatives pour  a g i l 0 * {} )
+par David Jonathan Ross – “Input is a flexible system of fonts designed specifically for code by David Jonathan Ross. It offers both monospaced and proportional fonts, all with a large range of widths, weights, and styles for richer code formatting.”
+*(Fonte payante mais pour pour projets non-commerciale)*
+[site officiel](https://input.djr.com)
+
+![Specimen Jost](img/sans/input.png)
