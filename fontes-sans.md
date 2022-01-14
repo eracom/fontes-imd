@@ -245,4 +245,4 @@ par David Jonathan Ross – “Input is a flexible system of fonts designed spec
 *(Fonte payante mais pour pour projets non-commerciale)*
 [site officiel](https://input.djr.com)
 
-![Specimen Jost](img/sans/input.png)
+![Specimen Jost](img/sans/specimen-Input.png)
