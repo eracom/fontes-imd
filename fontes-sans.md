@@ -81,7 +81,8 @@ par Rasmus Andersson, 2017
 
 **Cooper Hewitt** 
 par Chester Jenkins (Village), 2014   
-[Site officiel](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) 
+[Site officiel](https://www.cooperhewitt.org/open-source-at-cooper-hewitt/cooper-hewitt-the-typeface-by-chester-jenkins/) / 
+[Site Fonts in Use](https://fontsinuse.com/typefaces/32572/cooper-hewitt) 
 
 ![Specimen Cooper Hewitt](img/sans/cooper-hewitt.png)
 
@@ -116,7 +117,8 @@ Famille de fontes qui comporte aussi une variante serif.
 **Clear Sans**  
 par Intel, 2013  
 created and designed by Daniel Ratighan at Monotype under the direction of the User Experience team at Intel's Open Source Technology Center  
-[sur Github](https://github.com/intel/clear-sans)
+[sur Github](https://github.com/intel/clear-sans) / 
+[sur Fonts in Use](https://fontsinuse.com/typefaces/38385/clear-sans-intel-and-monotype) 
 
 ![Specimen Clear Sans](img/sans/clear-sans.png)
 
@@ -185,7 +187,8 @@ par Tyler Finck, Etcetera Type Co, 2020
 imagined by Bonjour Monde and designed by Lucas Descroix   
 Type family originally designed for Synesthésie art center (Saint-Denis, Fr)  
 [sur Google Fonts](https://fonts.google.com/specimen/Syne) /
-[sur Gitlab](https://gitlab.com/bonjour-monde/fonderie/syne-typeface)
+[sur Gitlab](https://gitlab.com/bonjour-monde/fonderie/syne-typeface) / 
+[sur Fonts in Use](https://fontsinuse.com/typefaces/81101/syne) 
 
 ![Specimen Syne](img/sans/syne-sans.png)
 
@@ -203,8 +206,9 @@ Fonte optimisée pour la lisibilité, dérivée de la fonte Quicksand.
 **HK Grotesk**  
 par Alfredo Marco Pradil, Hanken Design Co, 2015  
 "sans serif typeface inspired by the classic grotesques"  
-[site officiel](https://hanken.co/products/hk-grotesk)
-[sur Behance](https://www.behance.net/gallery/28749913/HK-Grotesk-Open-Source-Typeface)
+[site officiel](https://hanken.co/products/hk-grotesk) / 
+[sur Behance](https://www.behance.net/gallery/28749913/HK-Grotesk-Open-Source-Typeface) / 
+[sur Fonts in Use](https://fontsinuse.com/typefaces/47810/hk-grotesk)
 
 ![Specimen HK Grotesk](img/sans/hk-grotesk.png)
 
