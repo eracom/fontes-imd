@@ -8,7 +8,7 @@ Ce document présente des propositions pour une collection de fontes open-source
 ## Fontes Sans Serif 
 
 **Droid Sans**
-par Steve Matteson, fonte créée en 2007 our le système Android.  
+par Steve Matteson, fonte créée en 2007 pour le système Android.  
 **Open Sans** (2011) et **Noto Sans** (2013) sont dérivées de Droid Sans, leur design est pratiquement identique.  
 [Open Sans sur Github](https://github.com/googlefonts/opensans) / 
 [Open Sans sur Google Fonts](https://fonts.google.com/specimen/Open+Sans) / 
