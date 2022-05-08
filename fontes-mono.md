@@ -27,9 +27,15 @@ Variante de IBM Plex Mono, pour le logiciel iA Writer, 2018.
 [sur Github](https://github.com/iaolo/iA-Fonts) / 
 [article explicatif](https://ia.net/writer/blog/a-typographic-christmas) 
 
+Version mono qui est similaire à IBM Plex Mono.
+
 ![iA Writer Mono](img/mono/ia-writer-mono.png)
 
+Version Duospace: les caractères M et W ont une double largeur:
+
 ![iA Writer Duospace](img/mono/ia-writer-duospace.png)
+
+Version Quattro: les caractères i, j, l, r et t sont plus étroits:
 
 ![iA Writer Quattro](img/mono/ia-writer-quattro.png)
 
