@@ -85,7 +85,15 @@ Famille de fontes qui comporte aussi une Sans Serif et une mono.
 
 ![Specimen IBM Plex Serif](img/serif/ibm-plex-serif.png)
 
-***  
+***
+
+**Literata**
+par TypeTogether (Veronika Burian et José Scaglione).  
+Fonte commissionnée par Google pour son application Google Play Books.
+[sur Google Fonts](https://fonts.google.com/specimen/Literata)
+[sur TypeTogether](https://www.type-together.com/literata-font)
+
+![Specimen Literata](img/serif/literata.png)
 
 **Cormorant**  
 by Christian Thalmann, Catharsis Fonts, 2015  
