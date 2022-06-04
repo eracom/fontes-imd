@@ -28,7 +28,11 @@ par Christian Robertson pour Google, 2011
 
 ![Specimen Roboto Sans](img/sans/roboto.png)
 
-En 2022 est publié [Roboto Serif](https://material.io/blog/roboto-serif),
+La famille Roboto s'est étendue en 2013 avec [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab), puis en 2015 avec [Roboto Mono](https://fonts.google.com/specimen/Roboto+Mono).
+
+En février 2022 est publié [Roboto Serif](https://material.io/blog/roboto-serif) ("a minimal workhorse for comfortable reading"). 
+
+En mai 2022 est publié [Roboto Flex](https://material.io/blog/roboto-flex), une version de Roboto en Variable Font, dotée de 12 axes.
 
 ![Specimen Roboto Serif](img/serif/roboto-serif.png)
 
