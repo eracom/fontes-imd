@@ -1,16 +1,8 @@
----
-layout: page
-title: Fontes typo IMD
-permalink: index.html
----
-
-Ce micro-site présente des propositions pour une collection de fontes pouvant être utilisées dans le cursus Eracom IMD.
-
 ### Catalogue de fontes libres
 
-Le projet: établir un catalogue de fontes utiles pour le web et les interfaces écran, choisies pour leur pertinence pour des réalisations professionnelles. 
+Ce micro-site propose un catalogue de fontes libres utiles pour le web et les interfaces écran, choisies pour leur pertinence pour des réalisations professionnelles. 
 
-Toutes ces fontes étant open-source, elles peuvent être utilisés pour des projets web, installées sur les ordinateurs des élèves, ajoutées dans des dépôts Github, etc.
+Toutes ces fontes étant open-source, elles peuvent être utilisés pour des projets web, installées sur les ordinateurs des élèves, ajoutées dans des dépôts Github publics, etc.
 
 
 ### En complément: Trial fonts

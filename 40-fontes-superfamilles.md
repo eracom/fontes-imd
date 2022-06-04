@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fontes Libres - Superfamilles
+title: Superfamilles
 ---
 
 Certaines fontes offrent à la fois des versions serif, sans serif, slab, ou mono : on peut dès lors parler de "superfamilles" (*superfamily*). 
