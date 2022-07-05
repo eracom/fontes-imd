@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fontes Serif
+permalink: fontes-serif.html
 ---
 
 Ce document présente des propositions pour une collection de fontes open-source pouvant être utilisées dans le cursus Eracom IMD.

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Superfamilles
+permalink: superfamilles.html
 ---
 
 Certaines fontes offrent à la fois des versions serif, sans serif, slab, ou mono : on peut dès lors parler de "superfamilles" (*superfamily*). 

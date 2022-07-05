@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Fontes Mono
+permalink: fontes-mono.html
 ---
 
 Ce document présente des propositions pour une collection de fontes open-source pouvant être utilisées dans le cursus Eracom IMD.
