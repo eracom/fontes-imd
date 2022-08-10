@@ -8,9 +8,7 @@ Ce document présente des propositions pour une collection de fontes open-source
 
 ## Fontes Mono
 
-> I love monospaced typefaces.  There's something weirdly personal about them, like you're getting a behind-the-scenes look at the world.  Programmers use them to code, movie scripts are written in them, and when book manuscripts are submitted to publishers, they're written in a monospaced font.  There's something about them that screams, "this project is still in the works!" and I like that.
 
-Owen Earl, indestructible type
 
 ### 10 fontes mono-espacées à connaître
 
@@ -148,4 +146,11 @@ par Owen Earl, indestructible type, 2021
 **Luxi Mono** 
 
 ![Specimen Luxi Mono](img/mono/luxi-mono.png)
+
+### Sur les fontes mono-espacées
+
+> I love monospaced typefaces.  There's something weirdly personal about them, like you're getting a behind-the-scenes look at the world.  Programmers use them to code, movie scripts are written in them, and when book manuscripts are submitted to publishers, they're written in a monospaced font.  There's something about them that screams, "this project is still in the works!" and I like that.
+
+Owen Earl, indestructible type
+
 
