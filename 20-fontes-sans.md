@@ -138,7 +138,7 @@ https://developer.tizen.org/design/platform/styles/typography
 
 **Poppins**  
 et **DM Sans**  
-[DM Sans sur Github](https://fonts.google.com/specimen/DM+Sans) / 
+[DM Sans sur Github](https://github.com/googlefonts/dm-fonts) / 
 [DM Sans sur Google Fonts](https://fonts.google.com/specimen/DM+Sans)
 
 ![Specimen Poppins](img/sans/poppins.png)

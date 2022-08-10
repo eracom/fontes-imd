@@ -55,3 +55,74 @@ Superfamille constituée de :
 ![Specimen IBM Plex Sans](img/sans/ibm-plex-sans.png)
 
 ![Specimen IBM Plex Serif](img/serif/ibm-plex-serif.png)
+
+### Red Hat Fonts
+
+Red Hat Text  
+Red Hat Display  
+Red Hat Mono
+
+[Red Hat fonts sur Github](https://github.com/RedHatOfficial/RedHatFont) / [Ret Hat fonts sur Google Fonts](https://fonts.google.com/?query=Red+Hat)
+
+![Specimen Red Hat](img/super/red-hat-specimen.png)
+
+### DM Fonts
+
+DM Sans  
+DM Serif Text  
+DM Serif Display  
+DM Mono
+
+[DM Sans sur Github](https://github.com/googlefonts/dm-fonts) / 
+[DM Fonts sur Google Fonts](https://fonts.google.com/?query=Colophon+Foundry)
+
+![DM Fonts](img/sans/dm-fonts.png)
+
+Les DM Fonts ont été développées pour [l'identité de l'entreprise DeepMind](https://multiadaptor.com/work/deepmind/).
+
+
+
+### Iosevka
+
+Iosevka  
+Iosevka Slab  
+Iosevka Aile  
+Iosevka Etoile
+
+[site de démonstration](https://typeof.net/Iosevka/) / 
+[sur Github](https://github.com/be5invis/Iosevka) 
+
+![Specimen Iosevka](img/mono/iosevka-regular.png)
+
+### Merriweather
+
+Merriweather  
+Merriweather Serif
+
+### Inria
+
+Fonte créée par BlackFoundry pour Inria (Institut national de recherche en sciences et technologies du numérique).
+
+[sur BlackFoundry](https://black-foundry.com/work/inria-2/) /
+[sur Github](https://github.com/BlackFoundryCom/InriaFonts) /
+[sur Google Fonts](https://fonts.google.com/specimen/Inria+Sans)
+
+![Specimen Inria](img/sans/inria-sans.png)
+
+### Recursive
+
+Recursive Sans  
+Recursive Mono
+
+Une "Variable Font" dotée de 5 axes variables, qui combine des styles Sans et Mono, et offre des variantes (Casual, Weight, Slant, and Cursive).  
+[site dédié](https://www.recursive.design/) / 
+[sur Github](https://github.com/arrowtype/recursive) / 
+[sur Google Fonts](https://fonts.google.com/specimen/Recursive)
+
+![Recursive Mono](img/recursive/recursive-mono-default.png)
+
+![Recursive Sans](img/recursive/recursive-sans.png)
+
+![Recursive Cursive](img/recursive/recursive-cursive.png)
+
+![Recursive Casual](img/recursive/recursive-casual-thin.png)
