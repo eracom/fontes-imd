@@ -23,8 +23,14 @@ IBM Plex Sans
 IBM Plex Serif  
 IBM Plex Mono
 
-Recursive Sans  
-Recursive Mono
+Red Hat Text  
+Red Hat Display  
+Red Hat Mono
+
+DM Sans
+DM Serif Text
+DM Serif Display
+DM Mono
 
 Iosevka  
 Iosevka Slab
@@ -37,9 +43,8 @@ Merriweather Serif
 Inria Sans  
 Inria Serif
 
-Red Hat Text
-Red Hat Display
-Red Hat Mono
+Recursive Sans  
+Recursive Mono
 
 
 ### Sans-serif
@@ -52,31 +57,31 @@ Fira Sans
 Clear Sans  
 Breeze Sans  
 Poppins  
-DM Sans  
 Sora  
-Syne  
 Manrope  
 Barlow  
 Space Grotesk
 
+Voir [Fontes Sans Serif](fontes-sans.html)
 
-# Serif
+### Serif
 
 Newsreader  
 Spectral  
 Literata  
 Ibarra Real Nova
 
-### Slab serif
+#### Slab serif
 
 Zilla Slab  
 Arvo
 
-### Display
+#### Display
 
 Playfair Display  
 Fraunces
-DM Serif Display
+
+Voir [Fontes Serif](fontes-serif.html)
 
 ### Mono
 
@@ -84,3 +89,4 @@ Cascadia Code
 JetBrains Mono   
 Space Mono   
 
+Voir [Fontes Mono](fontes-mono.html)
