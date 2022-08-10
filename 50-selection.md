@@ -27,14 +27,14 @@ Red Hat Text
 Red Hat Display  
 Red Hat Mono
 
-DM Sans
-DM Serif Text
-DM Serif Display
+DM Sans  
+DM Serif Text  
+DM Serif Display  
 DM Mono
 
 Iosevka  
-Iosevka Slab
-Iosevka Aile
+Iosevka Slab  
+Iosevka Aile  
 Iosevka Etoile
 
 Merriweather  
