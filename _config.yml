@@ -4,14 +4,16 @@ description: Fontes typographiques IMD
 lang: fr-FR
 markdown: GFM
 chapters:
-# - title: Infos IMD
-#   url: https://code.eracom-pedagogique.ch/infos-profs-imd/
-# - title: Pédagogie
-#   url: https://code.eracom-pedagogique.ch/pedagogie/
+ - title: Infos IMD
+   url: https://code.eracom-pedagogique.ch/infos-profs-imd/
+ - title: Pédagogie
+   url: https://code.eracom-pedagogique.ch/pedagogie/
+ - title: Livres
+   url: https://code.eracom-pedagogique.ch/livres-imd/
  - title: Fontes IMD
    url: https://code.eracom-pedagogique.ch/fontes-imd/
 footer_col_1: <ul class="contact-list">
   <li>Eracom, Lausanne</li>
-  <li>2021</li></ul>
+  <li>2022</li></ul>
 footer_col_2: <ul class="social-media-list"><li><a href="https://github.com/eracom/fontes-imd">Lien Github</a></li></ul>
 footer_col_3: Fontes typographiques IMD.
