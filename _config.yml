@@ -4,12 +4,12 @@ description: Fontes typographiques IMD
 lang: fr-FR
 markdown: GFM
 chapters:
- - title: Infos IMD
-   url: https://code.eracom-pedagogique.ch/infos-profs-imd/
- - title: Pédagogie
-   url: https://code.eracom-pedagogique.ch/pedagogie/
- - title: Livres
-   url: https://code.eracom-pedagogique.ch/livres-imd/
+# - title: Infos IMD
+#   url: https://code.eracom-pedagogique.ch/infos-profs-imd/
+# - title: Pédagogie
+#   url: https://code.eracom-pedagogique.ch/pedagogie/
+# - title: Livres
+#   url: https://code.eracom-pedagogique.ch/livres-imd/
  - title: Fontes IMD
    url: https://code.eracom-pedagogique.ch/fontes-imd/
 footer_col_1: <ul class="contact-list">
