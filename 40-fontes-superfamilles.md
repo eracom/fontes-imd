@@ -37,7 +37,7 @@ En mai 2022 est publié [Roboto Flex](https://material.io/blog/roboto-flex), une
 
 ![Specimen Roboto Serif](img/serif/roboto-serif.png)
 
-![Specimen Roboto](img/super/Roboto-Flex.jpg)
+![Specimen Roboto Flex](img/super/Roboto-Flex.jpg)
 
 ### IBM Plex
 
@@ -104,11 +104,14 @@ Merriweather Serif
 
 Fonte créée par BlackFoundry pour Inria (Institut national de recherche en sciences et technologies du numérique).
 
+Inria Sans  
+Inria Serif
+
 [sur BlackFoundry](https://black-foundry.com/work/inria-2/) /
 [sur Github](https://github.com/BlackFoundryCom/InriaFonts) /
 [sur Google Fonts](https://fonts.google.com/specimen/Inria+Sans)
 
-![Specimen Inria](img/sans/inria-sans.png)
+![Specimen Inria Sans](img/sans/inria-sans.png)
 
 ### Recursive
 
