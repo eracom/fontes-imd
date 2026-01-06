@@ -23,11 +23,11 @@ par Steve Matteson, fonte créée en 2007 pour le système Android.
 
 ***
 
-**Source Sans Pro**  
+**Source Sans**  
 par Paul D. Hunt, pour Adobe, 2012  
 "A sans serif typeface intended to work well in user interfaces"  
 [sur Github](https://github.com/adobe-fonts/source-sans) / 
-[sur Google Fonts](https://fonts.google.com/specimen/Source+Sans+Pro)
+[sur Google Fonts](https://fonts.google.com/specimen/Source+Sans+3)
 
 ![Specimen Source Sans Pro](img/sans/source-sans-pro.png)
 
