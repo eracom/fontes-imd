@@ -167,7 +167,6 @@ Fonte de l'entreprise japonaise Soramitsu
 **Manrope**  
 par Mikhail Sharanda (Design Director at Huawei)  
 "Modern Geometric Sans-Serif"  
-[site officiel](https://manropefont.com/) / 
 [sur Google Fonts](https://fonts.google.com/specimen/Manrope)
 
 ![Specimen Manrope](img/sans/manrope.png)
