@@ -98,7 +98,7 @@ Fira Sans is the font of choice for the New Zealand Government and the Governmen
 
 aussi: Fira Mono et FiraGO  
 https://github.com/mozilla/Fira  
-https://bboxtype.com/typefaces/FiraGO/ 
+https://carrois.com/fira/ 
 
 ![Specimen Fira Sans](img/sans/fira-sans.png)
 
